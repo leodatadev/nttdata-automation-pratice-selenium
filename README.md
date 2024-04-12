@@ -2,7 +2,7 @@
 
 <p>Conhecendo e praticando o Selenium WebDriver, a principal ferramenta de automação de páginas Web. Nesse contexto, explorei a linguagem de programação Java e fui mergulhando entendendo como o Selenium automatiza as ações diretamente em meu browser.</p>
 
-<p align="center">❗❗ O SITE <a href="http://automationpractice.com/">http://automationpractice.com/</a> INFELIZMENTE ESTÁ FORA DO AR, POR FAVOR, <strong>USAR QUALQUER OUTRO SITE PARA EXECUTAR OS COMANDOS DO SELENIUM WEBDRIVE.</strong> SUGIRO: <a href="http://www.automationpractice.pl/index.php/">\http://www.automationpractice.pl/index.php/</a>❗❗</p>
+<p align="center">❗❗ O SITE <a href="http://automationpractice.com/">http://automationpractice.com/</a> INFELIZMENTE ESTÁ FORA DO AR (uma pena), EU, <strong>USEI OUTRO SITE PARA EXECUTAR OS COMANDOS DO SELENIUM WEBDRIVE.</strong> SUGIRO: <a href="http://www.automationpractice.pl/index.php/">\http://www.automationpractice.pl/index.php/</a>. Também encontrei O SITE <a href="https://automationexercise.com/">https://automationexercise.com/</a> e estou testando e refatorando meu código de teste.❗❗</p>
 
 <h3>Features</h3>
 <ol>
