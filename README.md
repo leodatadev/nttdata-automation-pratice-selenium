@@ -5,8 +5,8 @@
 <p align="center">❗❗ O SITE <a href="http://automationpractice.com/">http://automationpractice.com/</a> INFELIZMENTE ESTÁ FORA DO AR (uma pena), EU, <strong>USEI OUTRO SITE PARA EXECUTAR OS COMANDOS DO SELENIUM WEBDRIVE.</strong> SUGIRO: <a href="http://www.automationpractice.pl/index.php/">\http://www.automationpractice.pl/index.php/</a>. Também encontrei O SITE <a href="https://automationexercise.com/">https://automationexercise.com/</a> e estou testando e refatorando meu código de teste.❗❗</p>
 
 <h3>Imagem do Site</h3>
-![automation pratice](https://github.com/leodatadev/nttdata-automation-pratice-selenium/assets/141060396/f63a2d62-4eff-4f63-a9cc-cda0301e7040)
 
+![Captura de tela 2024-04-22 095937](https://github.com/leodatadev/nttdata-automation-pratice-selenium/assets/141060396/e54e1ab5-37ec-4f51-900a-1d7312783cdc)
 
 
 
